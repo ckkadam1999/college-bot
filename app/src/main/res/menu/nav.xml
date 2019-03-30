@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/robot"
         android:title="Chat Bot" />
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/calendar"
         android:title="Attendance" />
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/teacher"
         android:title="Professors" />
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/result"
         android:title="Results" />
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/message"
         android:title="Messages" />
     <item
-        android:icon="@android:drawable/ic_dialog_map"
+        android:icon="@drawable/logout"
         android:title="Logout" />
 </menu>
